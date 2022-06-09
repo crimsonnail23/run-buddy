@@ -19,7 +19,7 @@ body {
 
 header {
 
-    paddding: 20px 35px;
+    padding: 20px 35px;
 
     background-color: #39a6b2;
 
@@ -203,15 +203,3 @@ section {
     font-size: 16px;
   }
 
-.hero-form button {
-    
-    color: #fce138;
-   
-    background-color: #024e76;
-   
-    border: none;
-   
-    padding: 10px 20px;
-    
-    font-size: 16px;
-  }
