@@ -87,6 +87,12 @@ header nav ul li a {
 
 footer {
 
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+
     background: #fce138;
     
     width: 100%;
@@ -97,7 +103,7 @@ footer {
 
 footer h2 {
 
-    display: inline;
+    
 
     color: #024e76;
 
@@ -109,7 +115,7 @@ footer h2 {
 
 footer div {
 
-    float: right;
+    
 
     line-height: 1.5;
 
@@ -135,16 +141,46 @@ section {
 
     background-image: url("../images/hero-bg.jpg");
 
-    height: 600px;
+    display: flex;
+
+    justify-content: center;
+
+    flex-wrap: wrap;
 
     background-size: cover;
 
     background-position: center;
 
-    position: relative;
+    
 }
 
 /* Hero Style End */
+
+.hero-cta {
+
+  width: 35%;
+
+  text-align: right;
+
+  margin: 3.5%;
+
+  color: #fff;
+
+  font-size: 18px;
+
+  line-height: 1.3;
+
+}
+
+.hero-cta h2 {
+
+  font-style: italic;
+
+  font-size: 55px;
+
+  color: #fce138;
+
+}
 
 .hero-form{
 
@@ -154,15 +190,13 @@ section {
 
     padding: 20px;
 
-    width: 550px;
+    Width: 40%;    
 
     color: #024e76;
 
-    position: absolute;
+    margin: 3.5%;
 
-    bottom: 120px;
-
-    right: 140px;
+    
 
 }
 
