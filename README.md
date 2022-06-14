@@ -19,4 +19,4 @@ https://crimsonnail23.github.io/run-buddy
 made with <3 by Younus Seddiq
 
 
-### &c 2019Run Buddy, Inc
+### &copy 2019Run Buddy, Inc
