@@ -16,4 +16,6 @@ https://crimsonnail23.github.io/run-buddy
 
 ## Contribution
 
-made with <3 by Younus Seddiq
+made with &hearts by Younus Seddiq
+
+# run buddy inc
